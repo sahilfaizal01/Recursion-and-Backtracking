@@ -6,3 +6,4 @@ This repository contains learning materials of recursion and backtracking.
 2) Factorial
 3) 2 power n
 4) Nth Fibonacci
+5) Climbing Stairs
