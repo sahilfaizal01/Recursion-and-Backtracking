@@ -7,3 +7,4 @@ This repository contains learning materials of recursion and backtracking.
 3) 2 power n
 4) Nth Fibonacci
 5) Climbing Stairs
+6) Palindrome String
