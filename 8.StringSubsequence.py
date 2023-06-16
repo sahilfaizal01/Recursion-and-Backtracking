@@ -3,7 +3,7 @@ def PowerSet(s,temp,index):
     if(len(s)==index):
         print(temp)
         ans.append(temp)
-        return
+        return 
     
     # take 
     PowerSet(s,temp+s[index],index+1)
