@@ -7,7 +7,7 @@ def PowerSet(s,temp,index):
     
     # take 
     PowerSet(s,temp+s[index],index+1)
-    # not take
+    # not take 
     PowerSet(s,temp,index+1)
     
     return
